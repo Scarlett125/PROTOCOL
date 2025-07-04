@@ -1,3 +1,6 @@
+An official source code for paper PROTOCOL: Partial Optimal Transport-enhanced Contrastive Learning for
+Imbalanced Multi-view Clustering, accepted by ICML2025. Any communications or issues are welcomed. Please contact xqxue22@m.fudan.edu.cn. If you find this repository useful to your research or work, it is really appreciate to star this repository. ❤️
+
 ## 1. Create and activate a virtual environment
 
 - Create a new virtual environment with Python 3.9：
