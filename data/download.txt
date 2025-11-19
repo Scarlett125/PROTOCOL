@@ -1,0 +1,2 @@
+Please download Hdigit.mat on https://drive.google.com/drive/u/1/folders/1I5rLGY2YBsgssKAYUTWAz3KhmxSGwa80.
+Placed Hdigit.mat on /data/Hdigit.mat.
