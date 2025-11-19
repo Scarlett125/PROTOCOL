@@ -1,0 +1,7 @@
+torch==2.0.1
+torchvision==0.15.2
+scikit-learn==1.6.1
+termcolor==2.5.0
+pandas==2.2.3
+easydict==1.13
+numpy==1.26.4
