@@ -1,4 +1,5 @@
 import os
+import yaml
 from easydict import EasyDict
 
 def mkdir_if_missing(directory):
